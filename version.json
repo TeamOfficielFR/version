@@ -1,5 +1,14 @@
 {
   "version": 2,
   "lien": "https://t.me/+KcLBXI8oAE4zNjdk",
-  "message": "Nouvelle version : correction de bugs"
+  "message": "Nouvelle version : correction du slider",
+  "annonce": {
+    "id": 1,
+    "active": true,
+    "titre": "Info TeamO",
+    "message": "Merci pour votre achat ! Nouvelles musiques dispo sur Telegram.",
+    "bouton1": "OK",
+    "bouton2": "Ne plus afficher",
+    "annuler": true
+  }
 }
