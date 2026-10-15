@@ -5,8 +5,8 @@
   "annonce": {
     "id": 1,
     "active": true,
-    "titre": "Message de TeamO",
-    "message": "Merci pour votre achat ! Nouvelles musiques dispo sur Telegram.",
+    "titre": "Message du développeur TeamO",
+    "message": "Merci beaucoup pour votre achat ♡",
     "bouton1": "OK",
     "bouton2": "Ne plus afficher",
     "annuler": true
