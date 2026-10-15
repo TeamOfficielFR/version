@@ -1,14 +1,14 @@
 {
   "version": 1,
   "lien": "https://t.me/+KcLBXI8oAE4zNjdk",
-  "message": "Nouvelle version : correction du slider",
+  "message": "Nouvelle version : correction de Bugs",
   "annonce": {
     "id": 1,
     "active": true,
-    "titre": "Info lol TeamO",
-    "message": "Merci pour votre achat ! Nouvelles musiques dispo sur Telegram enculer.",
-    "bouton1": "OKkk",
-    "bouton2": "ta grand mere",
+    "titre": "Message de TeamO",
+    "message": "Merci pour votre achat ! Nouvelles musiques dispo sur Telegram.",
+    "bouton1": "OK",
+    "bouton2": "Ne plus afficher",
     "annuler": true
   }
 }
